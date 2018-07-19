@@ -1,6 +1,6 @@
 # Jonathan Schoonhoven
 
-*Backend Software Engineer in San Francisco, California.*
+*Senior Backend Software Engineer in San Francisco, California.*
 
 *Available for consultation and contracts.*
 
