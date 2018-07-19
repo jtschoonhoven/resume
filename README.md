@@ -14,7 +14,7 @@
 
 I was asked to join the Global Team to design and build the systems needed to translate Lyft into new languages. I met with dozens of stakeholders and am the sole author of the official tech spec that now details a full year of engineering work that will affect nearly every team at Lyft. the executive team has named this project a priority for 2018.
 
-I am the lead engineer working on the Translation Service and related libraries and tooling. I designed and created these systems from scratch, and also advice the engineering organization on how to use them effectively. I am the author of our developer guide to translation and localization.
+I am the lead engineer working on the Translation Service and related libraries and tooling. I designed and created these systems from scratch, and also advise the engineering organization on how to use them effectively. I am the author of our developer guide to translation and localization.
 
 ### Lyft, Internal Tools Team
 
