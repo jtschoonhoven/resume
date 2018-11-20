@@ -1,6 +1,6 @@
 # Jonathan Schoonhoven
 
-*Senior Backend Software Engineer in San Francisco, California.*
+*Freelance Senior Software Engineer in San Francisco, California.*
 
 *Available for consultation and contracts.*
 
@@ -10,7 +10,7 @@
 
 ### Lyft, Global Team
 
-*November, 2018—Present*
+*November, 2018—October, 2018*
 
 I was asked to join the Global Team to design and build the systems needed to translate Lyft into new languages. I met with dozens of stakeholders and am the sole author of the official tech spec that now details a full year of engineering work that will affect nearly every team at Lyft. the executive team has named this project a priority for 2018.
 
