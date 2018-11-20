@@ -2,7 +2,7 @@
 
 *Freelance Senior Software Engineer in San Francisco, California.*
 
-*Available for consultation and contracts.*
+*Available for part-time consultation and contracts.*
 
 *jtschoonhoven@gmail.com*
 
