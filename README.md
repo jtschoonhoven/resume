@@ -1,22 +1,38 @@
 # Jonathan Schoonhoven
 
-*Freelance Senior Software Engineer in San Francisco, California.*
+*Freelance Senior Software Engineer and Experience Designer in San Francisco, California.*
 
-*Available for part-time consultation and contracts.*
+*Available to work part-time and project-based.*
 
 *jtschoonhoven@gmail.com*
 
-> I design big and small web applications that serve millions of requests per minute. I lead complex, cross functional projects that solve hard problems. I prioritize simplicity, performance, and test coverage (in that order).
+> I design big and small web applications that serve millions of requests per minute. I lead complex, cross functional projects that solve hard problems. I design interactive experiences on and offline. I prioritize simplicity, performance, and test coverage (in that order).
 
-### Lyft, Global Team
+### Magnopus, Experience Designer, Narrative Team
 
-*November, 2018—October, 2018*
+*August, 2019—October, 2019 (3 month contract)*
+
+Magnopus is an agency specializing in interactive experience design, VR/AR in particular. They have worked with Disney and NASA, including the virtual production of 2019's Lion King.
+
+My role was split between narrative design and technical API design. Our project was a nonlinear, site-specific adventure game that could be experienced across VR, AR, and RR (real reality). I wrote stories and designed quests that took advantage of this blend of technologies and the particular history of the site. I wrote scripts for interactive characters with widely-branching dialogue trees. I designed the API for these nonlinear quests and worked with the engineering team to implement these.
+
+### Culdesac, Principal SWE, Engineering
+
+*January, 2019—August, 2019*
+
+Culdesac is building the first new neighborhood in the US designed to be entirely car-free. Rather than privately own cars, residents will rely on our platform of payment, delivery and transportation services (integrating Lyft, Uber Eats, Stripe, etc).
+
+I was the first senior hire (2nd overall) to the engineering team. I was tasked with designing this platform from a technical perspective, and I was integral in setting the product direction. I led the product through to beta testing, where it was actively used by tens of real residents to pay rent and fund transportation costs.
+
+### Lyft, Senior SWE, Global Team
+
+*November, 2018—December, 2018*
 
 I was asked to join the Global Team to design and build the systems needed to translate Lyft into new languages. I met with dozens of stakeholders and am the sole author of the official tech spec that now details a full year of engineering work that will affect nearly every team at Lyft. the executive team has named this project a priority for 2018.
 
-I am the lead engineer working on the Translation Service and related libraries and tooling. I designed and created these systems from scratch, and also advise the engineering organization on how to use them effectively. I am the author of our developer guide to translation and localization.
+I was the lead engineer working on the Translation Service and related libraries and tooling. I designed and created these systems from scratch, and also advised the engineering organization on how to use them effectively. I am the author of our developer guide to translation and localization.
 
-### Lyft, Internal Tools Team
+### Lyft, Senior SWE, Internal Tools Team
 
 *April, 2016—November, 2018*
 
@@ -24,7 +40,7 @@ For two years I was the sole owner of Lyft's Tier-0 geospatial service. The serv
 
 I designed and implemented the payments infrastructure used to pay bonuses to drivers. The system has now processed tens of millions of dollars. The system uses anomaly detection to automatically flag questionable bonuses and present them for review in an Angular front end.
 
-### Lyft, Data Platform Team
+### Lyft, SWE, Data Platform Team
 
 *July, 2015—April, 2016*
 
@@ -36,7 +52,7 @@ I massively reduced load on Redshift by moving large ETL jobs to Hive and by dyn
 
 I dramatically increased performance of slow ETL jobs by implementing concurrency/streaming patterns across the ETL system.
 
-### Change.org, Data Team
+### Change.org, SWE, Data Team
 
 *June, 2012—May, 2015*
 
