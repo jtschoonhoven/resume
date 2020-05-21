@@ -8,7 +8,15 @@
 
 > I design big and small web applications that serve millions of requests per minute. I lead complex, cross functional projects that solve hard problems. I design interactive experiences on and offline. I prioritize simplicity, performance, and test coverage (in that order).
 
-### Magnopus, Experience Designer, Narrative Team
+### Definitely Real, Lead Narrative Designer & Developer, Core Narrative Team
+
+*November, 2019—Present*
+
+Definitely Real is a startup of immersive theater artists, filmmakers, and technologists creating Alternate Reality Cinema (ARC), a new kind of storytelling which brings the cinematic form to social media: immersive theater, native to the internet.
+
+With Definitely Real I am designing and building an elaborate piece of interactive, immersive fiction for the internet. The project will be public in late 2020. Since I can't discuss the project itself, I'll just mention that the tech stack is somewhat interesting and includes Tor hidden services, browser-based distributed password cracking (in an ethical way), in-browser face & emotion tracking with TensorFlow.js, and public-key cryptography, all mostly dockerized and hosted with Heroku. The story is pretty good too.
+
+### Magnopus, Experience Designer & Developer, Narrative Team
 
 *August, 2019—October, 2019 (3 month contract)*
 
