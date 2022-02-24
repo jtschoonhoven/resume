@@ -1,35 +1,34 @@
 # Jonathan Schoonhoven
 
-_Principal Software Engineer & Experience Designer in Oakland, California._
+###### _Principal Software Engineer & Experience Designer in Oakland, California._
 
-_jtschoonhoven@gmail.com_
+jtschoonhoven@gmail.com
 
 > I design robust web applications that serve millions of requests per minute. I create deeply interactive experiences online and offline. I lead complex, cross functional projects that solve hard problems.
 
 ### [Meow Wolf](https://meowwolf.com/visit/denver), Game Developer, Story Experience Team (Denver)
 
-_May, 2021—September, 2021 (part time contract)_
+###### _May, 2021—September, 2021 (part time contract)_
 
-The Story Experience Team reached out to me for a five month contract to prepare for the release of Meow Wolf Denver. I worked with them to design and create the Convergence Exchange "ATMs" (Access to Memory). These touch and RFID-sensitive terminals are distributed throughout the Denver site, and they add an element of gameplay and narrative depth to the physical installation.
+The Story Experience Team reached out to me to prepare for the release of Meow Wolf Denver. I worked with them to create the Convergence Exchange "ATMs". These terminals are distributed throughout the site, and they add gameplay and narrative depth to the physical installation.
 
-- I selected the technology and architecture for the Convergence Exchange ATMs
+- I determined the technology and architecture for the Convergence Exchange ATMs
 - I was the principal author of the Convergence Exchange ATM codebase
-- I was the principal author of the first reusable component library at Meow Wolf, written in React and distributed via NPM
+- I was the principal author of their first reusable component library (React, NPM)
 
 ### [Culdesac](https://culdesac.com), Art Director, "Little Ocotillo" Art Village
 
-_January, 2021—March, 2021_
+###### _January, 2021—March, 2021_
 
-Little Ocotillo was a pop-up community in Phoenix, AZ. The project was a month-long activation and proof-of-concept for Culdesac, a real estate startup building a neighborhood for residents without cars. I was asked to envision Culdesac's car-free ideals as a pop-up eco-village where residents could try out the "car-free lifestyle" in person.
+This project was a month-long activation and proof-of-concept for Culdesac (an environmentally-conscious real estate startup). I was asked to envision Culdesac's car-free ideals as a pop-up eco-village where residents could try on the lifestyle in person.
 
 - I was given full discretion over quarter-million dollar budget
-- I integrated work from over a dozen local artists: muralists, sculptors, fabricators, decorators, designers, etc.
-- I erected an pop-up community on a half-acre of formerly-vacant land, including kitchens, bathrooms, common spaces, and plenty of art
-- I oversaw construction projects by our myriad contractors, and worked with the city to connect to sewers and the power grid
+- I integrated work from over a dozen local artists: muralists, sculptors, fabricators, etc
+- I oversaw the construction of a functioning, pop-up village on a half-acre of formerly-vacant land, and worked with the city to connect it to sewers and the power grid
 
 ### [Sherlock Inc](https://joinsherlock.com), Principal SWE, Full Stack
 
-_August, 2020—February, 2022_
+###### _August, 2020—February, 2022_
 
 Sherlock is a startup in the legal/health-tech space that provides "a modern way to navigate life after 60."
 
@@ -38,7 +37,7 @@ Sherlock is a startup in the legal/health-tech space that provides "a modern way
 
 ### [Definitely Real](https://www.definitelyreal.com/), Lead Narrative Designer, Core Narrative Team
 
-_November, 2019—October 2020_
+###### _November, 2019—October 2020_
 
 Definitely Real is a startup of immersive theater artists, filmmakers, and technologists creating a new kind of storytelling, native to the internet. In 2020 we released an episodic film, _I Dared My Best Friend to Ruin My Life_, each episode of which was connected to a chapter of [the Alternate Reality Game (ARG) I created](https://missions.teamzander.com).
 
@@ -48,7 +47,7 @@ Definitely Real is a startup of immersive theater artists, filmmakers, and techn
 
 ### [Magnopus](https://www.magnopus.com/expo-2020), Experience Designer, Dubai World Expo
 
-_August, 2019—October, 2019 (3 month contract)_
+###### _August, 2019—October, 2019 (3 month contract)_
 
 The World Expo Dubai is the first world’s fair to be held in the Middle East. Magnopus created an exact digital replica of the Expo and populated it with characters and quests that bring to life the history and culture of the region. Our project was a nonlinear, site-specific adventure game that could be experienced across VR, AR, and RR (real reality).
 
@@ -58,7 +57,7 @@ The World Expo Dubai is the first world’s fair to be held in the Middle East. 
 
 ### [Culdesac](https://culdesac.com/), Principal SWE, Engineering
 
-_January, 2019—August, 2019_
+###### _January, 2019—August, 2019_
 
 Culdesac is building the first new neighborhood in the US designed to be entirely car-free.
 
@@ -68,7 +67,7 @@ Culdesac is building the first new neighborhood in the US designed to be entirel
 
 ### [Lyft](https://www.lyft.com), Senior SWE, Global Team
 
-_November, 2018—December, 2018_
+###### _November, 2018—December, 2018_
 
 I was asked to join the Global Team to design and build the systems needed to translate Lyft into new languages.
 
@@ -78,7 +77,7 @@ I was asked to join the Global Team to design and build the systems needed to tr
 
 ### [Meow Wolf](https://meowwolf.com/), Production Assistant, [Meow Wolf Outside at SxSW](https://meowwolf.com/articles/sxsw-we-love-you)
 
-_March, 2018 (event-based contract)_
+###### _March, 2018 (event-based contract)_
 
 Meow Wolf Outside was Meow Wolf's bizarre interpretation of a scavenger hunt, created for attendees at SxSW 2018.
 
@@ -88,7 +87,7 @@ Meow Wolf Outside was Meow Wolf's bizarre interpretation of a scavenger hunt, cr
 
 ### [Lyft](https://www.lyft.com), Senior SWE, Internal Tools Team
 
-_April, 2016—November, 2018_
+###### _April, 2016—November, 2018_
 
 - I was the sole owner of Lyft's geospatial service, which stores such necessary data as where Lyft is available and what rides cost and is rated Tier-0 (most-essential)
 - I optimized this service to easily handle 100 million geospatial queries per minute (which does happen)
@@ -97,7 +96,7 @@ _April, 2016—November, 2018_
 
 ### [Lyft](https://www.lyft.com), SWE, Data Platform Team
 
-_July, 2015—April, 2016_
+###### _July, 2015—April, 2016_
 
 The Data Platform team is responsible for Lyft's realtime and batch ETL systems, collecting and structuring terabytes of event data daily.
 
@@ -107,7 +106,7 @@ The Data Platform team is responsible for Lyft's realtime and batch ETL systems,
 
 ### [Change.org](https://www.change.org), SWE, Data Team
 
-_June, 2012—May, 2015_
+###### _June, 2012—May, 2015_
 
 The Data Team is responsible for the realtime and batch ETL systems, experimentation service, and the machine learning services used for relevant content and advertising.
 
