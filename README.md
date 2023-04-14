@@ -27,6 +27,21 @@ Rhetoric is an online service for crafting interactive presentations (like Googl
 
 -   Feature Development: I implemented various advanced features, including real-time audio transcription over websockets, threaded commenting, document upload/parsing, and sophisticated role-based access controls.
 
+[Sherlock](https://pitchbook.com/profiles/company/484590-61), Principal SWE, Full Stack
+=======================================================================================
+
+August, 2020 --- February, 2022
+
+Sherlock is a legal/health-tech startup that provides "a modern way to navigate life after 60." I lead the technical direction and development of Sherlock, with achievements including:
+
+-   Leadership: As the Founding Engineer, I made key, early-stage technical decisions that laid the foundation for future success. I launched the first working version of the app myself, then scaled the engineering team with two additional full time hires.
+
+-   Compliance: I Implemented a security-first approach to the architecture, ensuring HIPAA and HITECH compliance from the initial version. Sherlock works with the sensitive legal and healthcare details of its clients.
+
+-   Monetization: I implemented a Stripe integration with both a la carte and subscription models, successfully monetizing the app.
+
+-   Security: I led the development of robust data privacy and security standards, maintaining the highest level of security throughout the development process
+
 [Meow Wolf](https://meowwolf.com/visit/denver), Game Developer, Story Experience Team
 =====================================================================================
 
@@ -54,21 +69,6 @@ Culdesac is a tech-forward, environmentally-conscious real estate developer, bui
 -   Artistic Integration: I integrated the work of over a dozen local artists, including fabricators, sculptors, muralists, and more, to create a cohesive and visually stunning experience for visitors.
 
 -   Construction Oversight: I oversaw the construction of a fully functional, pop-up village on a half-acre of formerly-vacant land, coordinating with the city to connect it to essential utilities such as sewers and the power grid.
-
-[Sherlock](https://pitchbook.com/profiles/company/484590-61), Principal SWE, Full Stack
-=======================================================================================
-
-August, 2020 --- February, 2022
-
-Sherlock is a legal/health-tech startup that provides "a modern way to navigate life after 60." I lead the technical direction and development of Sherlock, with achievements including:
-
--   Leadership: As the Founding Engineer, I made key, early-stage technical decisions that laid the foundation for future success. I launched the first working version of the app myself, then scaled the engineering team with two additional full time hires.
-
--   Compliance: I Implemented a security-first approach to the architecture, ensuring HIPAA and HITECH compliance from the initial version. Sherlock works with the sensitive legal and healthcare details of its clients.
-
--   Monetization: I implemented a Stripe integration with both a la carte and subscription models, successfully monetizing the app.
-
--   Security: I led the development of robust data privacy and security standards, maintaining the highest level of security throughout the development process
 
 [Definitely Real](https://www.definitelyreal.com/), Lead Game Designer, Core Narrative Team
 ===========================================================================================
