@@ -10,10 +10,25 @@ jtschoonhoven@gmail.com
 
 -   I lead complex, cross functional projects that solve hard problems.
 
+[Listening.com](https://listening.com/), Principal SWE, Backend
+===============================================================
+
+April, 2023 --- present
+
+Listening.com provides a mobile, desktop, and web application for converting text documents to speech. We use a suite of AI tools to create beautiful audio for complicated documents like academic PDFs.
+
+-   Leadership: As the Principal Engineer, I led a team of 4 engineers and was responsible for all major technical decisions
+
+-   Monetization: I developed intricate mobile and web payments infrastructure for thousands of paying customers
+
+-   Scale: I designed the infrastructure that has scaled to handle uploads from hundreds of thousands of users, generating tens of thousands of hours of generated audio
+
+-   AI: I deployed and tuned many AI/ML/LLM models at scale with a focus on cost and performance
+
 [Rhetoric](https://www.rhetoric.app/), Principal SWE, Full Stack
 ================================================================
 
-October, 2021 --- Present
+October, 2021 --- March, 2023
 
 Rhetoric is an online service for crafting interactive presentations (like Google Slides) combined with short-form video (like Loom). I lead the technical direction and development of Rhetoric, with achievements including:
 
