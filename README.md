@@ -70,6 +70,7 @@ The Convergence Station is the newest, largest, and most ambitious project by Me
 
 -   Game & Narrative Design: My ATMs (Access to Memory machines) were the primary mechanism for storytelling and gameplay at Meow Wolf Denver.
 
+<!--
 [Culdesac](https://culdesac.com/), Director, Culdesac Pop-Up Village
 ====================================================================
 
@@ -99,6 +100,8 @@ In 2020, we released an episodic film, "I Dared My Best Friend to Ruin My Life,"
 -   Game Development: Designed and created the Alternate Reality Game (ARG) that served as the central interactive tie-in to the episodic film release, "I Dared My Best Friend to Ruin My Life"
 
 -   Security & Privacy: Leveraged technologies such as Tor, public-key cryptography, face/emotion tracking, and realistic password cracking to create an immersive experience that made participants feel like real hackers, adding dramatic and educational  elements to enhance the overall narrative.
+
+-->
 
 [Magnopus](https://www.magnopus.com/projects/dubai-expo-2020), Game Designer, Dubai World Fair
 ==============================================================================================
