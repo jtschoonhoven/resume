@@ -1,31 +1,44 @@
 # Jonathan Schoonhoven's Resume
 
-Principal Software Engineer & Experience Designer in Oakland, California.
+Principal Software Engineer in San Francisco, California.
 
-jtschoonhoven@gmail.com
+jonathan@schoonhoven.com
 
 -   I design robust web applications that serve millions of requests per minute.
 
--   I create transformative experiences, blending art and technology.
-
 -   I lead complex, cross functional projects that solve hard problems.
+
+-   I prioritize simplicity, performance, and test coverage (in that order).
+
+[Chan Zuckerberg Initiative](https://chanzuckerberg.com), Staff SWE, ML Services, Science
+===============================================================
+
+January, 2025 --- present
+
+CZI is using AI to unlock the secrets of the cell, with the goal to cure, prevent, & manage all disease by the end of the century. On the ML Services team I created the tools that CZI uses to empower biologists and AI model developers to achieve this goal.
+
+-   Leadership: I wrote the tech spec, got approval from crossfunctional stakeholders, then implemented the pipeline used to orchestrate inference jobs, run benchmarking tasks on the embeddings, and report the results.
+
+-   Design: I wrote the proposal, worked with eng leadership to get approval from the Security and Legal teams, then implemented the workflow to approve, package, test, and deploy AI models to our platform.
+
+-   Open Science: I am a major contributor to CZI's two open source libraries for virtual cell science: [cz-benchmarks](https://github.com/chanzuckerberg/cz-benchmarks) and [vcp-cli](https://pypi.org/project/vcp-cli).
 
 [Listening.com](https://listening.com/), Principal SWE, Backend
 ===============================================================
 
-April, 2023 --- present
+April, 2023 --- January, 2025
 
 Listening.com provides a mobile, desktop, and web application for converting text documents to speech. We use a suite of AI tools to create beautiful audio for complicated documents like academic PDFs.
 
--   Leadership: As the Principal Engineer, I led a team of 4 engineers and was responsible for all major technical decisions
+-   Leadership: As the Principal Engineer, I led a team of 4 engineers and was responsible for all major technical decisions.
 
--   Monetization: I developed intricate mobile and web payments infrastructure for thousands of paying customers
+-   Monetization: I developed intricate mobile and web payments infrastructure for thousands of paying customers.
 
--   Scale: I designed the infrastructure that has scaled to handle uploads from hundreds of thousands of users, generating tens of thousands of hours of generated audio
+-   Scale: I designed the infrastructure that has scaled to handle uploads from hundreds of thousands of users, generating tens of thousands of hours of generated audio.
 
--   AI: I deployed and tuned many AI/ML/LLM models at scale with a focus on cost and performance
+-   AI: I deployed and tuned many AI/ML/LLM models at scale with a focus on cost and performance.
 
-[Rhetoric](https://www.rhetoric.app/), Principal SWE, Full Stack
+[Rhetoric](https://pitchbook.com/profiles/company/500864-59), Principal SWE, Full Stack
 ================================================================
 
 October, 2021 --- March, 2023
@@ -55,7 +68,7 @@ Sherlock is a legal/health-tech startup that provides "a modern way to navigate 
 
 -   Monetization: I implemented a Stripe integration with both a la carte and subscription models, successfully monetizing the app.
 
--   Security: I led the development of robust data privacy and security standards, maintaining the highest level of security throughout the development process
+-   Security: I led the development of robust data privacy and security standards, maintaining the highest level of security throughout the development process.
 
 [Meow Wolf](https://meowwolf.com/visit/denver), Game Developer, Story Experience Team
 =====================================================================================
@@ -97,7 +110,7 @@ In 2020, we released an episodic film, "I Dared My Best Friend to Ruin My Life,"
 
 -   Rapid Development: Rapidly designed  and created six different gamified websites that could be discovered separately as participants progress through the game.
 
--   Game Development: Designed and created the Alternate Reality Game (ARG) that served as the central interactive tie-in to the episodic film release, "I Dared My Best Friend to Ruin My Life"
+-   Game Development: Designed and created the Alternate Reality Game (ARG) that served as the central interactive tie-in to the episodic film release, "I Dared My Best Friend to Ruin My Life."
 
 -   Security & Privacy: Leveraged technologies such as Tor, public-key cryptography, face/emotion tracking, and realistic password cracking to create an immersive experience that made participants feel like real hackers, adding dramatic and educational  elements to enhance the overall narrative.
 
@@ -136,11 +149,11 @@ As a Senior Software Engineer at Lyft, I was selected to join the Global Team an
 
 -   Localization & Internationalization: Spearheaded a high-priority project to translate Lyft into new languages, recognized by the executive team as a top priority for 2018.
 
--   Tech Specs: Authored the official technical specification defining over a year of cross-functional engineering work
+-   Tech Specs: Authored the official technical specification defining over a year of cross-functional engineering work.
 
--   Independent Contribution: Led the implementation effort, developing the Translation Service API and related libraries and tooling
+-   Independent Contribution: Led the implementation effort, developing the Translation Service API and related libraries and tooling.
 
--   Systems Design: Solely responsible for the design and development of the systems required for language translation at Lyft
+-   Systems Design: Solely responsible for the design and development of the systems required for language translation at Lyft.
 
 [Lyft](https://www.lyft.com/), Senior SWE, Internal Tools Team
 ==============================================================
@@ -179,6 +192,6 @@ As a Senior Software Engineer on the Data Team, I played a key role in building 
 
 -   Product Development: Designed and built Curious, an internal BI tool for visualizing data in our Redshift cluster that was essential to decision making for revenue and executive teams. It remained the primary data exploration tool for years after I left the company.
 
--   Feature Development: Built the frontend for Change.org's internal Experiment Service, from concept to production deployment in under two weeks, demonstrating efficient and rapid development skills
+-   Feature Development: Built the frontend for Change.org's internal Experiment Service, from concept to production deployment in under two weeks, demonstrating efficient and rapid development skills.
 
 -   Data Engineering: Proven ability to understand and work with complex data systems, experimentation services, and machine learning services, demonstrating deep domain knowledge and technical expertise.
