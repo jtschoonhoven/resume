@@ -4,14 +4,8 @@ Tech Lead Manager in San Francisco, California.
 
 jonathan@schoonhoven.com
 
--   I design robust web applications that serve millions of requests per minute.
-
--   I lead complex, cross functional projects that solve hard problems.
-
--   I prioritize simplicity, performance, and test coverage (in that order).
-
 [Weights & Biases](https://wandb.ai/), Tech Lead Manager, Tracing & Analysis
-================================================================================================
+============================================================================
 
 January, 2026 --- present
 
@@ -144,7 +138,7 @@ Magnopus is a creative studio best known for its work with Disney on Coco (2017)
 
 -   Narrative Design: Crafted captivating stories that showcased the rich folklore and history of Dubai, the Emirates, and the Middle East, adding depth and authenticity to the overall game narrative.
 
-[Culdesac](https://culdesac.com/), Principal SWE, Engineering
+<!-- [Culdesac](https://culdesac.com/), Principal SWE, Engineering
 =============================================================
 
 January, 2019 --- August, 2019
@@ -153,24 +147,24 @@ Culdesac is a tech-forward, environmentally-conscious real estate developer, bui
 
 -   Leadership: Oversaw all major technical aspects of Culdesac's APIs and resident-facing apps. I led technical interviews and played a key role in building out the engineering team.
 
--   Payments Systems: Designed and developed a complex, credit-based payments system that integrated with Stripe and bundled rent payments with food and travel expenses.
+-   Payments Systems: Designed and developed a complex, credit-based payments system that integrated with Stripe and bundled rent payments with food and travel expenses. -->
 
-[Lyft](https://www.lyft.com/), Senior SWE, Global Team
+[Lyft](https://www.lyft.com/), Senior SWE
 ======================================================
 
-November, 2018 --- December, 2018
+July, 2015 --- December, 2018
 
-As a Senior Software Engineer at Lyft, I was selected to join the Global Team and led the design and development of systems to translate Lyft into new languages. My project was recognized as a top priority by the executive team.
+At Lyft I played a critical role in owning and optimizing Lyft's geospatial service, which stored essential data related to Lyft's availability and pricing. I also designed and implemented the payments infrastructure used for driver bonuses, processing tens of millions of dollars.
 
--   Localization & Internationalization: Spearheaded a high-priority project to translate Lyft into new languages, recognized by the executive team as a top priority for 2018.
+-   Reliability: Owned and developed Lyft's geospatial service, the source of truth for business critical data including where Lyft is available and the base price of rides. It is rated Tier-0 (most-essential).
 
--   Tech Specs: Authored the official technical specification defining over a year of cross-functional engineering work.
+-   Performance: Optimized the geospatial service to handle 100 million queries per minute, ensuring high performance and reliability. Reduced the service's P99 response time from 150ms to 5ms, improving overall service efficiency.
 
--   Independent Contribution: Led the implementation effort, developing the Translation Service API and related libraries and tooling.
+-   Payments: Designed and implemented the payments infrastructure for driver bonuses, processing tens of millions of dollars in transactions.
 
 -   Systems Design: Solely responsible for the design and development of the systems required for language translation at Lyft.
 
-[Lyft](https://www.lyft.com/), Senior SWE, Internal Tools Team
+<!-- [Lyft](https://www.lyft.com/), Senior SWE, Internal Tools Team
 ==============================================================
 
 April, 2016 --- November, 2018
@@ -181,9 +175,9 @@ As a Senior Software Engineer on Lyft's Internal Tools Team, I played a critical
 
 -   Performance: Optimized the geospatial service to handle 100 million queries per minute, ensuring high performance and reliability. Reduced the service's P99 response time from 150ms to 5ms, improving overall service efficiency.
 
--   Payments: Designed and implemented the payments infrastructure for driver bonuses, processing tens of millions of dollars in transactions.
+-   Payments: Designed and implemented the payments infrastructure for driver bonuses, processing tens of millions of dollars in transactions. -->
 
-[Lyft](https://www.lyft.com/), SWE, Data Platform Team
+<!-- [Lyft](https://www.lyft.com/), SWE, Data Platform Team
 ======================================================
 
 July, 2015 --- April, 2016
@@ -196,8 +190,8 @@ As a Software Engineer on Lyft's Data Platform Team, I played a crucial role in 
 
 -   Concurrency Patterns: Dramatically increased performance of slow ETL jobs by implementing concurrency/streaming patterns across the ETL system.
 
--   Massive Data Migration: I played a key engineering role in the initiative to migrate Lyft's data out of our Redshift cluster (which was the single biggest cluster in the world) and onto Hive.
-
+-   Massive Data Migration: I played a key engineering role in the initiative to migrate Lyft's data out of our Redshift cluster (which was the single biggest cluster in the world) and onto Hive. -->
+<!--
 [Change.org](https://www.change.org/), SWE, Data Team
 =====================================================
 
@@ -209,4 +203,4 @@ As a Senior Software Engineer on the Data Team, I played a key role in building 
 
 -   Feature Development: Built the frontend for Change.org's internal Experiment Service, from concept to production deployment in under two weeks, demonstrating efficient and rapid development skills.
 
--   Data Engineering: Proven ability to understand and work with complex data systems, experimentation services, and machine learning services, demonstrating deep domain knowledge and technical expertise.
+-   Data Engineering: Proven ability to understand and work with complex data systems, experimentation services, and machine learning services, demonstrating deep domain knowledge and technical expertise. -->
