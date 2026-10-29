@@ -4,7 +4,7 @@ Tech Lead Manager in San Francisco, California.
 
 jonathan@schoonhoven.com
 
-[Weights & Biases](https://wandb.ai/), Tech Lead Manager, Tracing & Analysis
+[Weights & Biases](https://wandb.ai/), Tech Lead Manager
 ============================================================================
 
 January, 2026 --- present
@@ -19,7 +19,7 @@ As TLM for the Tracing & Analysis team, I lead the team that builds the tools to
 
 -   Infrastructure: I designed, built, and deployed the infrastructure supporting Signals, which uses LLMs to automatically judge agent traces in near-realtime at scale. Billions of traces have been classified with this service.
 
-[Chan Zuckerberg Initiative](https://chanzuckerberg.com), Staff SWE, ML Services, Science
+[Chan Zuckerberg Initiative](https://chanzuckerberg.com), Staff SWE
 ===============================================================
 
 January, 2025 --- January, 2026
@@ -32,7 +32,7 @@ CZI is using AI to unlock the secrets of the cell, with the goal to cure, preven
 
 -   Open Science: I am a major contributor to CZI's two open source libraries for virtual cell science: [cz-benchmarks](https://github.com/chanzuckerberg/cz-benchmarks) and [vcp-cli](https://pypi.org/project/vcp-cli).
 
-[Listening.com](https://listening.com/), Principal SWE, Backend
+[Listening.com](https://listening.com/), Principal SWE
 ===============================================================
 
 April, 2023 --- January, 2025
@@ -47,7 +47,7 @@ Listening.com provides a mobile, desktop, and web application for converting tex
 
 -   AI: I deployed and tuned many AI/ML/LLM models at scale with a focus on cost and performance.
 
-[Rhetoric](https://pitchbook.com/profiles/company/500864-59), Principal SWE, Full Stack
+[Rhetoric](https://pitchbook.com/profiles/company/500864-59), Principal SWE
 ================================================================
 
 October, 2021 --- March, 2023
@@ -64,7 +64,7 @@ Rhetoric is an online service for crafting interactive presentations (like Googl
 
 -   Feature Development: I implemented various advanced features, including real-time audio transcription over websockets, threaded commenting, document upload/parsing, and sophisticated role-based access controls.
 
-[Sherlock](https://pitchbook.com/profiles/company/484590-61), Principal SWE, Full Stack
+[Sherlock](https://pitchbook.com/profiles/company/484590-61), Principal SWE
 =======================================================================================
 
 August, 2020 --- February, 2022
@@ -79,7 +79,7 @@ Sherlock is a legal/health-tech startup that provides "a modern way to navigate 
 
 -   Security: I led the development of robust data privacy and security standards, maintaining the highest level of security throughout the development process.
 
-[Meow Wolf](https://meowwolf.com/visit/denver), Game Developer, Story Experience Team
+[Meow Wolf](https://meowwolf.com/visit/denver), Game Developer
 =====================================================================================
 
 May, 2021 --- September, 2021
@@ -93,7 +93,7 @@ The Convergence Station is the newest, largest, and most ambitious project by Me
 -   Game & Narrative Design: My ATMs (Access to Memory machines) were the primary mechanism for storytelling and gameplay at Meow Wolf Denver.
 
 <!--
-[Culdesac](https://culdesac.com/), Director, Culdesac Pop-Up Village
+[Culdesac](https://culdesac.com/), Director
 ====================================================================
 
 January, 2021 --- March, 2021
@@ -108,7 +108,7 @@ Culdesac is a tech-forward, environmentally-conscious real estate developer, bui
 
 -   Construction Oversight: I oversaw the construction of a fully functional, pop-up village on a half-acre of formerly-vacant land, coordinating with the city to connect it to essential utilities such as sewers and the power grid.
 
-[Definitely Real](https://www.definitelyreal.com/), Lead Game Designer, Core Narrative Team
+[Definitely Real](https://www.definitelyreal.com/), Lead Game Designer
 ===========================================================================================
 
 November, 2019 --- October 2020
@@ -138,7 +138,7 @@ Magnopus is a creative studio best known for its work with Disney on Coco (2017)
 
 -   Narrative Design: Crafted captivating stories that showcased the rich folklore and history of Dubai, the Emirates, and the Middle East, adding depth and authenticity to the overall game narrative.
 
-<!-- [Culdesac](https://culdesac.com/), Principal SWE, Engineering
+<!-- [Culdesac](https://culdesac.com/), Principal SWE
 =============================================================
 
 January, 2019 --- August, 2019
@@ -164,7 +164,7 @@ At Lyft I played a critical role in owning and optimizing Lyft's geospatial serv
 
 -   Systems Design: Solely responsible for the design and development of the systems required for language translation at Lyft.
 
-<!-- [Lyft](https://www.lyft.com/), Senior SWE, Internal Tools Team
+<!-- [Lyft](https://www.lyft.com/), Senior SWE
 ==============================================================
 
 April, 2016 --- November, 2018
@@ -177,7 +177,7 @@ As a Senior Software Engineer on Lyft's Internal Tools Team, I played a critical
 
 -   Payments: Designed and implemented the payments infrastructure for driver bonuses, processing tens of millions of dollars in transactions. -->
 
-<!-- [Lyft](https://www.lyft.com/), SWE, Data Platform Team
+<!-- [Lyft](https://www.lyft.com/), SWE
 ======================================================
 
 July, 2015 --- April, 2016
@@ -192,7 +192,7 @@ As a Software Engineer on Lyft's Data Platform Team, I played a crucial role in 
 
 -   Massive Data Migration: I played a key engineering role in the initiative to migrate Lyft's data out of our Redshift cluster (which was the single biggest cluster in the world) and onto Hive. -->
 <!--
-[Change.org](https://www.change.org/), SWE, Data Team
+[Change.org](https://www.change.org/), SWE
 =====================================================
 
 June, 2012 --- May, 2015
