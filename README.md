@@ -10,7 +10,7 @@ jonathan@schoonhoven.com
 
 -   I prioritize simplicity, performance, and test coverage (in that order).
 
-[Weights & Biases](https://wandb.ai/) (a CoreWeave company), Tech Lead Manager, Tracing & Analysis
+[Weights & Biases](https://wandb.ai/), Tech Lead Manager, Tracing & Analysis
 ================================================================================================
 
 January, 2026 --- present
