@@ -7,17 +7,11 @@
   body {
     height: auto !important;
     overflow: visible !important;
-    background: #fff !important;
-    color: #000 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
   }
 
-  body {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 10pt;
-    line-height: 1.4;
-  }
-
-  /* Remove Docsify navigation and let the resume use the full page. */
+  /* Keep the Docsify theme; remove navigation and its reserved space. */
   .sidebar,
   .sidebar-toggle,
   .app-nav,
@@ -27,40 +21,30 @@
     display: none !important;
   }
 
-  .content,
-  .markdown-section {
+  .content {
     position: static !important;
-    width: auto !important;
-    max-width: none !important;
     margin: 0 !important;
     padding: 0 !important;
     overflow: visible !important;
   }
 
+  /* Let the page margin provide the inset, without extra theme padding. */
   .markdown-section {
-    color: #000;
-    font-size: 10pt;
-    line-height: 1.4;
-  }
-
-  /* Keep each role heading, dates, and introduction together. */
-  .markdown-section h1,
-  .markdown-section h2,
-  .markdown-section h3 {
-    margin: 14pt 0 5pt;
-    padding: 0;
-    color: #000;
-    font-size: 12pt;
-    line-height: 1.25;
-    break-inside: avoid;
-    break-after: avoid;
-    page-break-inside: avoid;
-    page-break-after: avoid;
+    padding: 0 !important;
+    overflow: visible !important;
   }
 
   .markdown-section > h1:first-child {
     margin-top: 0;
-    font-size: 20pt;
+  }
+
+  .markdown-section h1,
+  .markdown-section h2,
+  .markdown-section h3 {
+    break-inside: avoid;
+    break-after: avoid;
+    page-break-inside: avoid;
+    page-break-after: avoid;
   }
 
   .markdown-section h1 + p {
@@ -69,35 +53,12 @@
   }
 
   .markdown-section p {
-    margin: 0 0 6pt;
     orphans: 3;
     widows: 3;
   }
 
-  .markdown-section ul,
-  .markdown-section ol {
-    margin: 0 0 8pt;
-    padding-left: 16pt;
-  }
-
   .markdown-section li {
-    margin: 0 0 4pt;
     break-inside: avoid;
     page-break-inside: avoid;
-  }
-
-  .markdown-section li p {
-    margin: 0;
-  }
-
-  .markdown-section a,
-  .markdown-section a span {
-    color: #000 !important;
-    font-weight: inherit;
-    text-decoration: none !important;
-  }
-
-  .markdown-section a::after {
-    content: none !important;
   }
 }
