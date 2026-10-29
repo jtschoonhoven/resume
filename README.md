@@ -1,6 +1,6 @@
 # Jonathan Schoonhoven's Resume
 
-Principal Software Engineer in San Francisco, California.
+Tech Lead Manager in San Francisco, California.
 
 jonathan@schoonhoven.com
 
@@ -10,10 +10,25 @@ jonathan@schoonhoven.com
 
 -   I prioritize simplicity, performance, and test coverage (in that order).
 
+[Weights & Biases](https://wandb.ai/) (a CoreWeave company), Tech Lead Manager, Tracing & Analysis
+================================================================================================
+
+January, 2026 --- present
+
+As TLM for the Tracing & Analysis team, I lead the team that builds the tools to help customers make sense of their agents’ behaviors at scale. Our team is responsible for ingesting, storing, monitoring, and automatically analyzing the firehose of agentic data from some of the biggest AI companies in the world.
+
+-   Leadership: I lead the Tracing & Analysis team and still ship code myself. I set priorities, break down the work, and give teammates clear ownership. The team ships high-quality work on time, even when deadlines are tight and requirements change. In September, 2026 we launched Agent Lens, the agentic trace ingest and analysis service for CoreWeave Forge.
+
+-   Product: I led the product and engineering of Insights, the core features of Agent Lens. I made most of the customer-facing product and design decisions, working directly with PMs and designers.
+
+-   Customers: I work directly with enterprise customers and I demo new features to design partners to gather product feedback.
+
+-   Infrastructure: I designed, built, and deployed the infrastructure supporting Signals, which uses LLMs to automatically judge agent traces in near-realtime at scale. Billions of traces have been classified with this service.
+
 [Chan Zuckerberg Initiative](https://chanzuckerberg.com), Staff SWE, ML Services, Science
 ===============================================================
 
-January, 2025 --- present
+January, 2025 --- January, 2026
 
 CZI is using AI to unlock the secrets of the cell, with the goal to cure, prevent, & manage all disease by the end of the century. On the ML Services team I created the tools that CZI uses to empower biologists and AI model developers to achieve this goal.
 
